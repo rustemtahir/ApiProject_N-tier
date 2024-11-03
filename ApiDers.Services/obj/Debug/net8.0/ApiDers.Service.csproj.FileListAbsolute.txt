@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Service.deps.json
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Service.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Service.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Core.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Data.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Data.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\bin\Debug\net8.0\ApiDers.Core.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers..04678D1F.Up2Date
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\refint\ApiDers.Service.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ApiDers.Service.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDers.Services\obj\Debug\net8.0\ref\ApiDers.Service.dll

@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\bin\Debug\net8.0\ApiDers.Core.deps.json
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\bin\Debug\net8.0\ApiDers.Core.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\bin\Debug\net8.0\ApiDers.Core.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\refint\ApiDers.Core.dll
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ApiDers.Core.pdb
+C:\Users\Hp\Desktop\DMA0-6\APIDers1\ApiDersCore\obj\Debug\net8.0\ref\ApiDers.Core.dll

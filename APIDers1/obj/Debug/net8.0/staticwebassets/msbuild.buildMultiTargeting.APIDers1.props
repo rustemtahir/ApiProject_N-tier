@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIDers1.props" />
+</Project>
